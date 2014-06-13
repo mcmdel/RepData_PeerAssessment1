@@ -166,7 +166,7 @@
 ## [1] 10766
 ```
 
-* Filling the missing values made the median igual the mean and the distribution will be a little bit less right skewed.* 
+** Filling the missing values made the median igual the mean and the distribution will be a little bit less right skewed.** 
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
@@ -226,5 +226,3 @@
 ```
 
 ![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13.png) 
-
-
